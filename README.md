@@ -1,19 +1,20 @@
-### Hello!
+## Hello!
 
 I'm Giullia, a Jr. Data Analyst with a cinema and military background.
 
-# About me
+### About me
 * BS Degree in Cinema and Audiovisual
 * Finishing the Google Data Analytics Professional Certificate
 
-# Competencies 
+### Competencies 
 * Tools: SQL, Excel, Google Sheets, BigQuery.
 * Skills: Data Cleaning and Wrangling, Data Analysis, Data Viz in Excel, Data Calculation, Data Aggregation.
 
-# Walkthrough/Wikis
+### Walkthrough/Wikis
 * Cleaning a Boba Tea dataset [here](https://github.com/atchiullia/boba-tea_db-cleaning/wiki/Walkthrough-cleaning).
 
-
+### Let's connect
+* [LinkedIn](https://www.linkedin.com/in/giullialazaro/?locale=en_US)
 
 <!--
 **atchiullia/atchiullia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
