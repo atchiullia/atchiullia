@@ -5,6 +5,7 @@ I'm Giullia, a Jr. Data Analyst with a cinema and military background.
 ### About me
 * BS Degree in Cinema and Audiovisual
 * Finishing the Google Data Analytics Professional Certificate
+* I'm currently learning R and Python.
 
 ### Competencies 
 * Tools: SQL, Excel, Google Sheets, BigQuery.
