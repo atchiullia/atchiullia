@@ -1,20 +1,25 @@
-## Hello!
+## 👋 Hi, I'm Giullia Lazaro!  
 
-I'm Giullia, a Jr. Data Analyst with a cinema and military background.
+🔹 **Data Analyst | DevOps Enthusiast | Automation & Cloud Computing**  
 
-### About me
-* BS Degree in Cinema and Audiovisual
-* I'm currently learning Python.
+I have a background in **Data Science and Data Analysis** and am currently transitioning into the **DevOps** field. My expertise spans across **process automation, infrastructure management, and programming**. I'm passionate about integrating **data-driven insights** with **DevOps best practices** to optimize workflows and improve operational efficiency.  
 
-### Competencies 
-* Tools: SQL, Excel, Google Sheets, BigQuery.
-* Skills: Data Cleaning and Wrangling, Data Analysis, Data Viz in Excel, Data Calculation, Data Aggregation.
+### 🚀 **What I Do**  
 
-### Walkthrough/Wikis
-* Cleaning a Boba Tea dataset [here](https://github.com/atchiullia/boba-tea_db-cleaning/wiki/Walkthrough-cleaning).
+- **DevOps & Automation:** CI/CD, Kubernetes, Docker, Terraform  
+- **Cloud & Infrastructure:** Kubernetes (K8s), Service Discovery, Cluster Management  
+- **Monitoring & Observability:** Prometheus, Grafana  
+- **Data Analysis & Visualization:** SQL, BigQuery, Tableau, Excel  
+- **Software Development:** Infrastructure as Code (IaC), GitHub Actions  
 
-### Let's connect
-* [LinkedIn](https://www.linkedin.com/in/giullialazaro/?locale=en_US)
+### 🌱 **Currently Learning**  
+I'm deepening my knowledge in **CI/CD pipelines, container orchestration, cloud automation, and Infrastructure as Code (IaC)**.  
+
+### 📫 **Let's Connect!**  
+[🌍 Portfolio](https://giullialazaro.com)  
+📧 giullialazaro@gmail.com  
+
+💡 **Curious, adaptable, and passionate about tech, data, and automation!** 🚀  
 
 <!--
 **atchiullia/atchiullia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
