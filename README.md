@@ -41,7 +41,7 @@
 
 - 💼 [GitHub Portfolio](https://github.com/atchiullia)  
 - 🐳 [Docker Hub](https://hub.docker.com/r/atchiullia/giullialazaro)  
-- ✉️ Email: giullialazaro@gmail.com *(optional, only if you want it visible)*
+- ✉️ Email: giullialazaro@gmail.com
 
 ---
 
