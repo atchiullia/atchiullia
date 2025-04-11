@@ -9,11 +9,11 @@
 
 ### 💼 About Me
 
-- 🎓 Currently studying AWS, Docker, CI/CD, Terraform, and Kubernetes  
-- 🧠 I learn by doing: applying DevOps practices in hands-on projects  
-- ⚙️ Created automation scripts with PowerShell, CI/CD pipelines with GitHub Actions, and trading bots with MQL5  
-- 🐳 Built a Docker-hosted portfolio with +59 pulls on Docker Hub  
-- 🌐 Experimenting with infrastructure as code and cloud deployments
+- 💻 DevOps Freelancer working with CI/CD pipelines, cloud infrastructure, and automation
+- 🔧 Built pipelines for Unreal Engine game dev using GitHub Actions & Docker
+- 🐳 Deployed static sites with Nginx in Docker and published on Docker Hub (50+ pulls)
+- ⚙️ Automated environments using PowerShell, developed trading bots with MQL5
+- 🎓 Currently expanding skills in AWS, Kubernetes, Terraform, and Python scripting
 
 ---
 
@@ -25,6 +25,9 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ---
 
