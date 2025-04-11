@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋 I'm Giullia!</h1>
 
 <p align="center">
-  DevOps enthusiast, cloud explorer, and automation lover 💻☁️<br>
+  DevOps Engineer | Cloud Enthusiast | Automation Lover ☁️🐳<br>
   Passionate about solving problems with clean code, curiosity, and scalability 🚀
 </p>
 
