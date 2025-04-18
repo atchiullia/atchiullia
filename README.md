@@ -36,10 +36,9 @@
 
 ### 🚀 Featured Projects
 
-- 🎮 [Unreal CI/CD](https://github.com/atchiullia/unreal-ci-cd): Automates macOS builds for Unreal Engine using GitHub Actions and Docker
-- 📊 [Monitoring Stack](https://github.com/atchiullia/monitoring-stack): Prometheus + Grafana setup to monitor Docker containers
+- 🎮 [Unreal CI/CD]: Automates macOS builds for Unreal Engine using GitHub Actions and Self-hosted runners
 - ⚙️ [PowerShell Dev Setup](https://github.com/atchiullia/powershell-setup): SSH & GitHub environment automation with onboarding benefits
-- 📈 [MQL5 Trading Bots](https://github.com/atchiullia/mql5-trading): Backtesting bots based on real-market simulations
+- 💼 [Static Website Deployment with Terraform, AWS, and GitHub Actions](https://github.com/atchiullia/Portfolio_Giu): Apply DevOps and IaC (Infrastructure as Code) practices to create a scalable, secure, and monitored deployment process.
 
 ---
 
